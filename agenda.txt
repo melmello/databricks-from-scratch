@@ -1,0 +1,61 @@
+5 lezioni:
+
+1)
+- Introduzione personale
+- Big Data
+- Spark
+- Pandas
+- Databricks
+- Cluster
+- Data Warehouse
+- Tabelle SQL (strutturati)
+- Data Lake
+- File CSV/Parquet/JSON (semi-strutturati)
+- Machine Learning
+- File non strutturati
+- Delta Table
+- Come sono fatte
+- Vacuum
+
+2)
+- Notebook
+- SQL
+- Structured API
+- Dataframe operations
+- Spark Doc
+- Trasformations
+- Action
+- Spark Lazy
+- UDF
+- RDD
+
+3)
+- Partitioning
+- Shuffle
+- Wide & Narrow trasformations
+- Join
+- Cache
+- Persist
+- Optimize
+- Medallion Architecture,
+- Databricks Repos 
+- Unit Test
+- Integration Test
+- Data Test
+
+4) 
+- Test Checkpoint
+- Streaming
+- Autoloader
+- Workflows
+- Azure Data Factory,
+- Azure Key Vault,
+- Delta Live Tables
+- Monitoring
+
+5)
+- Unity Catalog
+- Data Masking
+- Machine Learning
+- Questions from you
+- Lakehouse Fundamentals Quiz
